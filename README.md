@@ -10,6 +10,32 @@ This public roadmap gives customers, partners, and technical teams a transparent
 
 ---
 
+# README snippet for `public-roadmap`
+
+Add this section near the top of `README.md`, after the opening introduction.
+
+---
+
+## Latest public update
+
+**2026-06-05 — Public GitHub and documentation launch**
+
+SoMerch has published its public GitHub and documentation presence, including:
+
+- public roadmap
+- customer-facing documentation at [docs.somerch.co](https://docs.somerch.co)
+- API documentation concepts
+- product data schema examples
+- public brand assets
+- organization-level support and security files
+
+Read more:
+
+- [Changelog](CHANGELOG.md)
+- [Release notes](releases/2026-06-05-public-github-docs-launch.md)
+
+---
+
 ## Why this roadmap exists
 
 Corporate merch is no longer just about ordering branded items in bulk.
