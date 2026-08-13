@@ -1,6 +1,8 @@
-somerch-public-roadmap-changelog-release/
+public-roadmap/
+├── README.md
+├── ROADMAP.md
 ├── CHANGELOG.md
-├── README-SNIPPET.md
 ├── TREE.txt
 └── releases/
-    └── 2026-06-05-public-github-docs-launch.md
+    ├── 2026-06-05-public-github-docs-launch.md
+    └── 2026-08-13-public-mcp-integrations-launch.md

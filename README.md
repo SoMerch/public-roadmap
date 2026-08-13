@@ -18,21 +18,20 @@ Add this section near the top of `README.md`, after the opening introduction.
 
 ## Latest public update
 
-**2026-06-05 — Public GitHub and documentation launch**
+**2026-08-13 — Public MCP, API, AI Merch Consultant, and content modules launch**
 
-SoMerch has published its public GitHub and documentation presence, including:
+SoMerch has shipped several major platform capabilities, including:
 
-- public roadmap
-- customer-facing documentation at [docs.somerch.co](https://docs.somerch.co)
-- API documentation concepts
-- product data schema examples
-- public brand assets
-- organization-level support and security files
+- AI-powered Merch Consultant for planning and recommendations
+- Public MCP server at `somerch.co/mcp` for AI agent integration
+- Public REST API with OAuth, webhooks, events, and OpenAPI spec
+- Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas content modules
+- Employee redeem links and self-service flows
 
 Read more:
 
 - [Changelog](CHANGELOG.md)
-- [Release notes](releases/2026-06-05-public-github-docs-launch.md)
+- [Release notes](releases/2026-08-13-public-mcp-integrations-launch.md)
 
 ---
 

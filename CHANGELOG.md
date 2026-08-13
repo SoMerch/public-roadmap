@@ -55,3 +55,33 @@ SoMerch published its first public GitHub resources to make the platform directi
 - Expand API documentation with example webhook events and lifecycle diagrams.
 - Add more product data schema examples by category.
 - Improve documentation site visuals, navigation, and discoverability as the platform evolves.
+
+---
+
+## 2026-08-13
+
+### Public MCP, API, AI Merch Consultant, and content modules launch
+
+SoMerch shipped several major platform capabilities, including an AI-powered Merch Consultant, a public MCP server for AI agent integration, a public REST API with OAuth and webhooks, and four structured content modules (Merch Atlas, Merch Calendar, Merch Guide, Gift Ideas).
+
+### Added
+
+- AI-powered Merch Consultant for planning and recommendations.
+- Public MCP server at `somerch.co/mcp` with MCP server card discovery.
+- Public REST API at `/api/public/v1/` with OpenAPI spec, OAuth, webhooks, events, jobs, and connections.
+- Integration documentation page at `somerch.co/docs/integrations`.
+- Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas content modules with EN/DE/FR support.
+- Agent skills discovery endpoints at `/.well-known/agent-skills/`.
+- Employee redeem links, address collection, and size selection workflows.
+
+### Improved
+
+- Structured SEO and AEO data across all new content modules.
+- Multi-language content coverage (EN, DE, FR).
+- Product data schema examples aligned with live platform data.
+
+### Public resources
+
+- Public MCP: https://somerch.co/mcp
+- API OpenAPI spec: https://somerch.co/api/public/openapi.json
+- Integration docs: https://somerch.co/docs/integrations

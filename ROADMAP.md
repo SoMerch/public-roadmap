@@ -21,6 +21,11 @@ Current platform and operational focus.
 | Shipping | Multi-address uploads and EU-wide shipment tracking |
 | Approvals | Basic approval workflow and budget tags |
 | Operations | In-house production, warehousing, QA, kitting, pick and pack |
+| Employee flows | Redeem links, address collection, size selection |
+| AI | AI-powered Merch Consultant for planning and recommendations |
+| Content | Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas content modules |
+| API | Public MCP server, REST API, OpenAPI spec, webhooks, and OAuth |
+| Integrations | Public documentation, product schema examples, agent skills discovery |
 
 ---
 
@@ -30,13 +35,13 @@ Planned improvements and near-term product direction.
 
 | Area | Focus |
 |---|---|
-| Employee flows | Redeem links, address collection, size selection |
-| Office flows | Office portals, team-based ordering, group shipments |
-| Inventory | Low-stock alerts, reserved stock, better SKU metadata |
-| Fulfillment | Automated shipment rules, improved shipment status |
-| Approvals | More flexible approval steps and internal comments |
-| Catalog | Better product filtering, product recommendation logic |
-| Documentation | Public workflow documentation and product schema examples |
+| Office flows | Office portals, team-based ordering, group shipments, shipment rules |
+| Inventory | Low-stock alerts, reserved stock, better SKU metadata, batch tracking |
+| Fulfillment | Automated shipment rules, per-country shipping estimates, improved shipment status |
+| Approvals | More flexible approval steps, internal comments, approval policies |
+| Catalog | Better product filtering, product recommendation logic, sustainability attributes |
+| Enterprise | SSO, advanced audit logs, procurement reporting |
+| Multi-language | Deeper DE and FR content coverage, localized product data |
 
 ---
 
@@ -46,12 +51,11 @@ Longer-term product direction.
 
 | Area | Focus |
 |---|---|
-| AI | AI-assisted product recommendations and brand-fit suggestions |
-| Enterprise | SSO, advanced approvals, audit logs |
-| Integrations | HRIS, accounting, procurement, reporting exports |
-| Compliance | EU compliance metadata, ESG and sustainability reporting |
-| Procurement | Better budget control, approval history, reporting |
-| Logistics | Per-country landed-cost estimates and shipping optimization |
+| Advanced AI | AI-assisted brand compliance guardrails, design review assistance |
+| Integrations | HRIS, accounting, procurement exports, reporting dashboards |
+| Compliance | EU compliance metadata, ESG and sustainability reporting options |
+| Procurement | Advanced budget control, multi-vendor RFQ, approval history |
+| Logistics | Per-country landed-cost estimates, multi-carrier optimization, returns handling |
 
 ---
 
