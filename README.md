@@ -4,34 +4,25 @@
 
 SoMerch is a software-powered corporate merch platform and service partner for distributed companies across Europe.
 
-We help teams plan, produce, store, and ship branded merch from one place — combining curated products, in-house production, warehousing, inventory visibility, approvals, and EU-wide fulfillment.
+We help teams plan, produce, store, and ship branded merch from one place - combining curated products, in-house production, warehousing, inventory visibility, approvals, and EU-wide fulfillment.
 
 This public roadmap gives customers, partners, and technical teams a transparent view of where the SoMerch platform is going.
 
 ---
 
-# README snippet for `public-roadmap`
-
-Add this section near the top of `README.md`, after the opening introduction.
-
----
-
 ## Latest public update
 
-**2026-08-13 — Public MCP, API, AI Merch Consultant, and content modules launch**
+**2026-08-27 - ChatGPT plugin and Zapier app launch**
 
-SoMerch has shipped several major platform capabilities, including:
+SoMerch has shipped two new integrations for planning and automating merch operations:
 
-- AI-powered Merch Consultant for planning and recommendations
-- Public MCP server at `somerch.co/mcp` for AI agent integration
-- Public REST API with OAuth, webhooks, events, and OpenAPI spec
-- Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas content modules
-- Employee redeem links and self-service flows
+- **ChatGPT plugin** - connect SoMerch in ChatGPT and search products, plan merch projects, and request quotes directly in a chat
+- **Zapier app** - use SoMerch triggers (new orders, order status changes, shipments, quote requests), searches, and actions to connect merch operations to 8000+ apps
 
 Read more:
 
 - [Changelog](CHANGELOG.md)
-- [Release notes](releases/2026-08-13-public-mcp-integrations-launch.md)
+- [Release notes](releases/2026-08-27-chatgpt-zapier-integrations-launch.md)
 
 ---
 
@@ -114,6 +105,9 @@ Features and workflows currently available or actively being improved.
 - Production status updates
 - Shipment tracking
 - Internal fulfillment operations
+- ChatGPT plugin for AI-powered merch planning in ChatGPT
+- Zapier app for no-code automation (triggers, searches, and actions)
+- Public MCP server and REST API for AI agents and custom integrations
 
 ---
 
@@ -240,9 +234,16 @@ Focus areas:
 
 ### Integrations
 
-SoMerch is planned to connect with tools used by HR, procurement, finance, and operations teams.
+SoMerch connects with tools used by HR, procurement, finance, and operations teams through an open integration surface.
 
-Potential integration areas:
+Shipped integrations:
+
+- **ChatGPT plugin** - AI merch planning, product search, and quote requests in ChatGPT
+- **Zapier app** - triggers, searches, and actions for no-code automation
+- **Public MCP server** - AI agents can browse and plan merch programmatically
+- **Public REST API** - OAuth secured actions, events, and webhooks for custom integrations
+
+Planned integration areas:
 
 - HRIS systems
 - accounting exports

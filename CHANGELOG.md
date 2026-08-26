@@ -8,6 +8,38 @@ The changelog is public for transparency, but it is not a contractual commitment
 
 ---
 
+## 2026-08-27
+
+### ChatGPT plugin and Zapier app launch
+
+SoMerch shipped two new integrations: a ChatGPT plugin for planning and requesting quotes in chat, and an official Zapier app for no-code automation of merch operations.
+
+### Added
+
+- **ChatGPT plugin** based on the public MCP server: search products, plan merch projects, check feasibility, and submit quote requests directly in ChatGPT (connector URL `https://somerch.co/mcp`).
+- **Zapier app** with OAuth 2.0 connections and REST-hook triggers with polling fallback:
+  - Triggers: New Order, Order Status Changed, New Shipment, Shipment Updated, New Quote Request.
+  - Searches: Find Products, Find Product, Find Order.
+  - Actions: Submit Quote Request (idempotent), Create Merch Plan.
+- Developer documentation for both integrations in the api-docs repository and on the public docs site.
+
+### Improved
+
+- Public MCP server expanded from read-only catalog browsing to full merch planning with `plan_merch_project`, `show_merch_plan`, and two-phase `submit_quote_request` tools.
+- Webhook delivery engine with signature verification, exponential-backoff retries, and polling fallback for Zapier triggers.
+- Published complete, up-to-date API documentation covering every endpoint used by the integrations: an OpenAPI 3.1 specification and an interactive reference on `docs.somerch.co`, plus endpoint, actions, and authentication guides in the api-docs repository.
+
+### Public resources
+
+- ChatGPT connector: https://somerch.co/mcp
+- Zapier app: https://zapier.com
+- Integration docs: https://somerch.co/docs/integrations
+- Interactive API reference: https://docs.somerch.co/openapi.html
+- OpenAPI 3.1 spec: https://docs.somerch.co/openapi.json
+- API docs repo: https://github.com/SoMerch/api-docs
+
+---
+
 ## 2026-06-05
 
 ### Public GitHub and documentation launch

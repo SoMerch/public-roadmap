@@ -23,9 +23,10 @@ Current platform and operational focus.
 | Operations | In-house production, warehousing, QA, kitting, pick and pack |
 | Employee flows | Redeem links, address collection, size selection |
 | AI | AI-powered Merch Consultant for planning and recommendations |
+| AI connectors | ChatGPT plugin for AI merch planning, product search, and quote requests in ChatGPT |
 | Content | Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas content modules |
 | API | Public MCP server, REST API, OpenAPI spec, webhooks, and OAuth |
-| Integrations | Public documentation, product schema examples, agent skills discovery |
+| Integrations | Zapier app (triggers, searches, and actions), agent skills discovery, product schema examples |
 
 ---
 
