@@ -8,6 +8,27 @@ The changelog is public for transparency, but it is not a contractual commitment
 
 ---
 
+## 2026-09-04
+
+### Zapier app approved and listed in the Zapier Marketplace
+
+The SoMerch Zapier app has passed review and is now officially listed in the Zapier Marketplace, so anyone can connect it with one click.
+
+### Added
+
+- **Zapier Marketplace listing** for the SoMerch app: https://zapier.com/apps/somerch/integrations
+- Direct connect link for building zaps with SoMerch triggers, searches, and actions.
+
+### Improved
+
+- Zapier references across the public docs, API docs, and brand assets now link directly to the approved marketplace listing instead of a generic Zapier URL.
+
+### Public resources
+
+- Zapier Marketplace listing: https://zapier.com/apps/somerch/integrations
+
+---
+
 ## 2026-08-27
 
 ### ChatGPT plugin and Zapier app launch
@@ -32,7 +53,7 @@ SoMerch shipped two new integrations: a ChatGPT plugin for planning and requesti
 ### Public resources
 
 - ChatGPT connector: https://somerch.co/mcp
-- Zapier app: https://zapier.com
+- Zapier app: https://zapier.com/apps/somerch/integrations
 - Integration docs: https://somerch.co/docs/integrations
 - Interactive API reference: https://docs.somerch.co/openapi.html
 - OpenAPI 3.1 spec: https://docs.somerch.co/openapi.json

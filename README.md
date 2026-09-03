@@ -12,6 +12,10 @@ This public roadmap gives customers, partners, and technical teams a transparent
 
 ## Latest public update
 
+**2026-09-04 - Zapier app approved and listed in the Zapier Marketplace**
+
+The SoMerch Zapier app has passed Zapier review and is now officially listed on the [Zapier Marketplace](https://zapier.com/apps/somerch/integrations). Anyone can connect SoMerch with one click and automate merch operations across 8000+ apps using SoMerch triggers (new orders, order status changes, shipments, quote requests), searches, and actions.
+
 **2026-08-27 - ChatGPT plugin and Zapier app launch**
 
 SoMerch has shipped two new integrations for planning and automating merch operations:

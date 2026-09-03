@@ -24,7 +24,7 @@ SoMerch shipped two new integrations: a ChatGPT plugin for AI-powered merch plan
 ## Public resources
 
 - ChatGPT connector: https://somerch.co/mcp
-- Zapier app: https://zapier.com
+- Zapier app: https://zapier.com/apps/somerch/integrations
 - Interactive API reference: https://docs.somerch.co/openapi.html
 - OpenAPI 3.1 spec: https://docs.somerch.co/openapi.json
 - Integration docs: https://somerch.co/docs/integrations
