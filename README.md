@@ -258,17 +258,17 @@ Shipped integrations (Live):
 In review:
 
 - ChatGPT plugin directory listing (review by OpenAI)
-- Microsoft Copilot - AI assistant built on the public MCP server
-- Canva app - find products, prepare artwork with a logo, and send a quote
-- monday.com app - create shipments and track shipment status from workflows
-- Google Sheets app - Google Workspace Marketplace listing
+- Microsoft Copilot - plan company merch, search products, build project recommendations, and request quotes through a Copilot agent on the SoMerch public MCP server
+- Canva app - find products while designing, prepare branded artwork, preview the result, and send the selected merchandise for a quote
+- monday.com app - turn people and order data from boards into SoMerch shipments by mapping recipients, products, sizes, and quantities
+- Google Sheets app - manage products, recipients, and assignments, then import the resulting individual shipments into SoMerch
 
 In development:
 
-- Salesforce integration
-- Deel integration
-- HubSpot integration
-- HiBob integration
+- Salesforce integration - connect records and workflows so merch requests and fulfillment become part of CRM processes
+- Deel integration - connect employee data to support onboarding, gifting, and distributed fulfillment workflows
+- HubSpot integration - connect contacts and workflows so data can trigger and support merch requests and fulfillment
+- HiBob integration - connect employee data so HR events can trigger merch and gifting workflows
 
 For the latest status, see the [integrations overview](https://docs.somerch.co/integrations.html).
 
