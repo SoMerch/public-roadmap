@@ -27,6 +27,18 @@ The SoMerch Zapier app has passed review and is now officially listed in the Zap
 
 - Zapier Marketplace listing: https://zapier.com/apps/somerch/integrations
 
+### Integration portfolio status
+
+SoMerch is building an integration ecosystem around the tools teams already use. Current status:
+
+- **Live**: Zapier app (approved on the Zapier Marketplace), ChatGPT connector, public MCP server, public REST API.
+- **In review**: ChatGPT plugin directory listing (review by OpenAI), Microsoft Copilot, Canva app, monday.com app, Google Sheets app (Google Workspace Marketplace).
+- **In development**: Salesforce integration.
+
+### Added
+
+- Integration overview page on the public docs site: https://docs.somerch.co/integrations.html
+
 ---
 
 ## 2026-08-27
