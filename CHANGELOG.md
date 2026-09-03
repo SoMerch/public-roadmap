@@ -33,7 +33,7 @@ SoMerch is building an integration ecosystem around the tools teams already use.
 
 - **Live**: Zapier app (approved on the Zapier Marketplace), ChatGPT connector, public MCP server, public REST API.
 - **In review**: ChatGPT plugin directory listing (review by OpenAI), Microsoft Copilot, Canva app, monday.com app, Google Sheets app (Google Workspace Marketplace).
-- **In development**: Salesforce integration.
+- **In development**: Salesforce, Deel, HubSpot, and HiBob integrations.
 
 ### Added
 

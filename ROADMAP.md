@@ -43,7 +43,7 @@ Planned improvements and near-term product direction.
 | Catalog | Better product filtering, product recommendation logic, sustainability attributes |
 | Enterprise | SSO, advanced audit logs, procurement reporting |
 | Multi-language | Deeper DE and FR content coverage, localized product data |
-| Integrations | ChatGPT plugin directory listing (in review), Microsoft Copilot (in review), Canva app (in review), monday.com app (in review), Google Sheets app (in review), Salesforce (in development) |
+| Integrations | ChatGPT plugin directory listing (in review), Microsoft Copilot (in review), Canva app (in review), monday.com app (in review), Google Sheets app (in review), Salesforce (in development), Deel (in development), HubSpot (in development), HiBob (in development) |
 
 ---
 

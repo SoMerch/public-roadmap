@@ -20,7 +20,7 @@ SoMerch is also expanding its integration ecosystem:
 
 - **Live**: Zapier app, ChatGPT connector, public MCP server, public REST API.
 - **In review**: ChatGPT plugin directory listing (by OpenAI), Microsoft Copilot, Canva app, monday.com app, Google Sheets app (Google Workspace Marketplace).
-- **In development**: Salesforce integration.
+- **In development**: Salesforce, Deel, HubSpot, and HiBob integrations.
 
 See the [integrations overview](https://docs.somerch.co/integrations.html) for the full status table.
 
@@ -266,6 +266,9 @@ In review:
 In development:
 
 - Salesforce integration
+- Deel integration
+- HubSpot integration
+- HiBob integration
 
 For the latest status, see the [integrations overview](https://docs.somerch.co/integrations.html).
 
