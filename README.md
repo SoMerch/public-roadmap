@@ -12,14 +12,16 @@ This public roadmap gives customers, partners, and technical teams a transparent
 
 ## Latest public update
 
-**2026-09-04 - Zapier app approved and integration portfolio update**
+**2026-09-04 - ChatGPT plugin and Zapier app approved**
+
+The SoMerch ChatGPT plugin has passed OpenAI review and is now publicly listed in the [ChatGPT plugin directory](https://chatgpt.com/plugins/plugin_asdk_app_6a84141dbb1c8191acdb877b8b846b8a). Anyone can add it directly in ChatGPT to plan merch projects, compare products, and request quotes in chat.
 
 The SoMerch Zapier app has passed Zapier review and is now officially listed on the [Zapier Marketplace](https://zapier.com/apps/somerch/integrations). Anyone can connect SoMerch with one click and automate merch operations across 8000+ apps.
 
 SoMerch is also expanding its integration ecosystem:
 
-- **Live**: Zapier app, ChatGPT connector, public MCP server, public REST API.
-- **In review**: ChatGPT plugin directory listing (by OpenAI), Microsoft Copilot, Canva app, monday.com app, Google Sheets app (Google Workspace Marketplace).
+- **Live**: Zapier app (approved on the Zapier Marketplace), ChatGPT plugin (listed in the ChatGPT plugin directory), public MCP server, public REST API.
+- **In review**: Microsoft Copilot, Canva app, monday.com app, Google Sheets app (Google Workspace Marketplace).
 - **In development**: Salesforce, Deel, HubSpot, and HiBob integrations.
 
 See the [integrations overview](https://docs.somerch.co/integrations.html) for the full status table.
@@ -250,14 +252,13 @@ SoMerch connects with tools used by HR, procurement, finance, and operations tea
 
 Shipped integrations (Live):
 
-- **ChatGPT plugin** - AI merch planning, product search, and quote requests in ChatGPT
+- **ChatGPT plugin** - AI merch planning, product search, and quote requests in ChatGPT; listed in the [ChatGPT plugin directory](https://chatgpt.com/plugins/plugin_asdk_app_6a84141dbb1c8191acdb877b8b846b8a)
 - **Zapier app** - approved and listed on the Zapier Marketplace; triggers, searches, and actions for no-code automation
 - **Public MCP server** - AI agents can browse and plan merch programmatically
 - **Public REST API** - OAuth secured actions, events, and webhooks for custom integrations
 
 In review:
 
-- ChatGPT plugin directory listing (review by OpenAI)
 - Microsoft Copilot - plan company merch, search products, build project recommendations, and request quotes through a Copilot agent on the SoMerch public MCP server
 - Canva app - find products while designing, prepare branded artwork, preview the result, and send the selected merchandise for a quote
 - monday.com app - turn people and order data from boards into SoMerch shipments by mapping recipients, products, sizes, and quantities

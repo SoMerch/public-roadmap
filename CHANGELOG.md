@@ -14,25 +14,32 @@ The changelog is public for transparency, but it is not a contractual commitment
 
 The SoMerch Zapier app has passed review and is now officially listed in the Zapier Marketplace, so anyone can connect it with one click.
 
+### ChatGPT plugin approved and listed in the ChatGPT plugin directory
+
+The SoMerch ChatGPT plugin has passed OpenAI review and is now publicly listed in the ChatGPT plugin directory, so anyone can add it directly in ChatGPT without developer mode.
+
 ### Added
 
 - **Zapier Marketplace listing** for the SoMerch app: https://zapier.com/apps/somerch/integrations
 - Direct connect link for building zaps with SoMerch triggers, searches, and actions.
+- **ChatGPT plugin directory listing**: https://chatgpt.com/plugins/plugin_asdk_app_6a84141dbb1c8191acdb877b8b846b8a
 
 ### Improved
 
 - Zapier references across the public docs, API docs, and brand assets now link directly to the approved marketplace listing instead of a generic Zapier URL.
+- ChatGPT references across the public docs, API docs, and brand assets now link directly to the approved ChatGPT plugin directory listing.
 
 ### Public resources
 
 - Zapier Marketplace listing: https://zapier.com/apps/somerch/integrations
+- ChatGPT plugin directory listing: https://chatgpt.com/plugins/plugin_asdk_app_6a84141dbb1c8191acdb877b8b846b8a
 
 ### Integration portfolio status
 
 SoMerch is building an integration ecosystem around the tools teams already use. Current status:
 
-- **Live**: Zapier app (approved on the Zapier Marketplace), ChatGPT connector, public MCP server, public REST API.
-- **In review**: ChatGPT plugin directory listing (review by OpenAI), Microsoft Copilot, Canva app, monday.com app, Google Sheets app (Google Workspace Marketplace).
+- **Live**: Zapier app (approved on the Zapier Marketplace), ChatGPT plugin (listed in the ChatGPT plugin directory), public MCP server, public REST API.
+- **In review**: Microsoft Copilot, Canva app, monday.com app, Google Sheets app (Google Workspace Marketplace).
 - **In development**: Salesforce, Deel, HubSpot, and HiBob integrations.
 
 ### Added

@@ -26,7 +26,7 @@ Current platform and operational focus.
 | AI connectors | ChatGPT plugin for AI merch planning, product search, and quote requests in ChatGPT |
 | Content | Merch Atlas, Merch Calendar, Merch Guide, and Gift Ideas content modules |
 | API | Public MCP server, REST API, OpenAPI spec, webhooks, and OAuth |
-| Integrations | Zapier app (approved on the Zapier Marketplace), ChatGPT connector, public MCP server, REST API, agent skills discovery, product schema examples |
+| Integrations | Zapier app (approved on the Zapier Marketplace), ChatGPT plugin (listed in the [ChatGPT plugin directory](https://chatgpt.com/plugins/plugin_asdk_app_6a84141dbb1c8191acdb877b8b846b8a)), public MCP server, REST API, agent skills discovery, product schema examples |
 
 ---
 
@@ -43,7 +43,7 @@ Planned improvements and near-term product direction.
 | Catalog | Better product filtering, product recommendation logic, sustainability attributes |
 | Enterprise | SSO, advanced audit logs, procurement reporting |
 | Multi-language | Deeper DE and FR content coverage, localized product data |
-| Integrations | ChatGPT plugin directory listing (in review), Microsoft Copilot (in review), Canva app (in review), monday.com app (in review), Google Sheets app (in review), Salesforce (in development), Deel (in development), HubSpot (in development), HiBob (in development) |
+| Integrations | Microsoft Copilot (in review), Canva app (in review), monday.com app (in review), Google Sheets app (in review), Salesforce (in development), Deel (in development), HubSpot (in development), HiBob (in development) |
 
 ---
 
